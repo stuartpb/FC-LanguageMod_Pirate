@@ -1,0 +1,144 @@
+LANGUAGE_NAME,Pirate
+VERSION,Version
+LEVEL_SKIP,Island Skip
+
+
+SOCIAL_MENU,Social Menu
+INSTRUCTION_MANUAL,Scroll o' the Ropes
+REPORT_A_BUG,Survey the Hull:
+DESCRIBE_PROBLEM,Speak, lad, and tell us how ye broke it.
+EMAIL_ADDRESS,Email Address
+SEND,Fire!
+CANCEL,Abandon
+OPEN_DATA_FOLDER,Open Data / GIF Chest
+DELETE_ALL_RESET,Scuttle All / Reset
+FIRST_PERSON_SMOOTH,Own Eyes Smoothin'
+FIRST_PERSON_FOV,Own Eyes FOV
+DIRECTOR_CONTROLS,CAPTAIN'S HELM
+INSTRUCTIONS,The Ropes
+ENABLE,Enable Captain's Helm
+EXPERIMENTAL_FEATURES,Voodoo Features
+THANK_YOU_FOR_PLAYING,"Thanks, ye landlubber"
+LOG_IN,Set sail
+TWITTER_MESSAGE,Twitter missive:
+NO_TWITTER_ACCOUNT,No Twitter ship docked
+SHOW_TWITCH_CHAT,Unroll Twitch Log
+USERNAME,Username
+CHANNEL,Channel
+TOKEN,Token
+GET,Nab
+HIDE_THIS,Squirrel Away
+,
+MINIMAP,Minimap
+WELCOME_TO_X_ISLAND,"Arr, welcome to\n{%}\nIsland"
+FINAL_STAGE_BEAT,Ye just conquered the {Final Island}!
+LEVEL_SELECT,Island Hop
+ALL_ONLINE_CONTRAPTIONS,All th' Seven Seas' Contraptions
+FRIENDS_CONTRAPTIONS,Mateys' Contraptions
+LOCAL_CONTRAPTIONSYOUR_CONTRAPTIONS,Yer Contraptions
+THIS_LEVEL_CONTRAPTIONS,Offshore Contraptions\nFor This Island
+YOUR_LEVELS,Yer Islands
+LEVELS_BY_RATING,Islands By Likin'
+LEVELS_BY_DATE,Islands By Suns Ago
+,
+WARN0_WELCOME,Ahoy-hoy!
+WARN0_TURN_ON_ONE,Ahoy-hoy!\n\nFire up at least\none {hand controller}.
+WARN0_DESK_TURN_ON_TO_PLAY,"Light yer hand controller to play, ye bilge rat!"
+
+LET_GO_OF_TRIGGER,Release the {trigger}\nfrom both yer hands!
+THROWING_IS_FUN,"{Scupperin'} be pleasureful, but\nwe need this trinket!"
+,
+TUT00_TRIGGER_GRABS,Th' {trigger}\nbutton {grabs}
+TUT00_GRAB_THIS_STICK,Grab this {plank}\nand hoist it!
+TUT00_PERFECT,Thar she blows!
+,
+TUT01_ITS_A_SNAP,It be a {snap}!
+TUT01_ALSO_A_SNAP,This also be a {snap}!
+TUT01_TRY_RESIZING_ME,Try {refittin'} me by\n{seizin'} th' {snaps}
+TUT01_GREAT,Ship shape!
+,
+TUT02_CONNECT_TO_ME,Hook up to me!
+TUT02_CONNECT_ME_TO_OTHER,Hook me to th' other {plank}!
+TUT02_USE_SNAPS,Use {snaps}!
+
+TUT02_NICE,Shiver me timbers!
+TUT02_THOSE_ARE_BASICS,Those be th' ropes!
+TUT02_LOOK_FOR_PUPPY,Spy the\n [scurvy dog]!
+TUT02_PUNCH_MY_NOSE,[Arrf! Arrf!]\nSock me grog-swillin' nose\nwhen ye be willin'\n to set sail!
+,
+TUT03_ITS_A_WHEEL,Avast, a {wheelbarrel}!\n{Hoist} it up a smidgen.
+TUT03_HULLO,Hullo!
+TUT03_PRESS_GREEN_BUTTON,Fire th' {green button}\nto {heave ho}!
+TUT03_AWWW,Well, blow me down!
+TUT03_WHEEL_DIDNT_GO,Th' {wheelbarrel} barely\ntrudged an inch. Let's\noverlaul it! Hit {stop}
+,
+TUT03_STICK_TO_AXLE,Hook a {plank} to\nthis {Axle Snap}!
+TUT03_THIS_TO_AXLE,Hook this to\nth' {Axle Snap}!
+TUT03_HIT_START_AGAIN,Fire {Start} again!
+TUT03_STICK_ATTACHED_ILL_SPIN,"So long as a {Plank} is\nhooked up, I'll {roll}!\nThar be some examples behind ye."
+TUT_03_ARF,[Arrf! Arrf!]
+TUT03_WHEE,Huzzah!
+TUT03_YAY,Yo ho ho!
+TUT03_STOP_TO_EXPERIMENT,Press {Stop} to\nget back to yer experimentin'!
+TUT03_NOSE_TO_MOVE_ON,Wallop the [Sea Pup]'s snout\nto weigh anchor
+,
+TUT04_JELLY,I be the [Jelly] ball!\nI yearn to return [Home]!\n{Hold} me!
+TUT04_HELLO,Ahoy!
+TUT04_BUILD_CAR,Let's {rig} a car!
+TUT04_MATCH_OUTLINE,{Hoist} trinkets to\nmatch this outline
+TUT04_NICE,Squiffy!
+TUT04_GO_TO_TEST,Push {go} to test!
+TUT04_ADJUST_CAR,Crimp yer car to\nreach yer port of call.
+TUT04_YOU_DID_IT,Ye did it, matey!\nFire in th' hole!
+,
+TUT05_PURR,{Parrrr}
+TUT05_TAKE_PARTS,Pull {widgets}\nfrom {Neko}'s backside
+TUT05_NEKO_IS_FRIEND,{Neko} be\nyer first mate!
+TUT05_THATS_IT,That be it!
+TUT05_MROW,{Mrow?}
+TUT05_DOUBLE_TAP,Double-tap th' {trigger} quick\nto call {Neko} to hand
+TUT05_NYAN,{Nyan!}
+TUT05_GET_ME_HOME,Send me [Home] once more!
+,
+TUT06_GRIP,Press the {grip button}\nto hoist th' entire Contraption
+,
+TUT07_GRAB_THE_HELMET,Gold! Let's save yer contraption.\n{Seize} th' {Divin' Helm}
+TUT07_PUT_ON_HEAD,Plop th' {Helm}\non yer {Head}!
+TUT07_LETS_SAVE,Let's {Save} yer contraption.\nSeek th' MiniMap.
+TUT07_GRAB_YOUR_MODEL,{Grab} yer [Contraption Model]
+TUT07_MOVE_TO_TABLE,Hoist th' [Model]\nto th' {Savin'} station.
+TUT07_DROP_IT_HERE,Drop th' [Model] here\nto {Save} her!
+TUT07_SAVE_TABLE,{Savin'} station
+,
+TUT07_YOU_CAN_ALSO,"Ye can also {Load}, {Share},\nor {Island Hop} here.\nFor now, let's just remove th' {Helm}".
+TUT07_PRESS_NOSE,Smack th' salty [Pup]'s nose\nto set sail for th' next island!
+,
+TUT08_REACH_BEHIND_SHOULDER,Reach behind yer {shoulder}\nto pull out a {plank}.\nLike ye're unsheathin' yer cutlass.
+TUT08_SOMETHING_IN_EAR,Thar be somethin' {sticky}\nin yer {right ear}.\nTry pullin' it out.
+TUT08_A_STICKY_BALL,This be called a {Sticky Ball}.\nIt'll stop joints from {floppin'} around.
+TUT08_TRY_TO_FIND,Try findin' th' other {shortcuts}!
+TUT08_UNPOWERED_WHEEL,This be an {Unpowered Wheelbarrel}.\nIt have no {fire} in its belly.
+,
+SHELF_LOADING,Downloadin'...
+SHELF NOT_CONNECTED,Landlocked
+SHELF_ERROR,Avast!
+SHELF_UPLOADING,Uploadin'...
+SHELF_MY_ISLAND,My Island
+
+CONFIRM_RESET_TITLE,RESET GAME
+CONFIRM_RESET_MESSAGE,This will wash away th' auto-saves for every island and reset back to the first tutorial. This will not scuttle contraptions saved at the save station. Great for startin' a new game for your mateys!
+CONFIRM_RESET_BUTTON,Reset th' Game!
+CONFIRM_DELETE_TITLE,SCUTTLE ALL & RESET
+CONFIRM_DELETE_MESSAGE,"This will destroy every single file in th' game's data folder. All of yer autosaves, anything saved at th' '[local]' save station, any stored settings files, etc... A factory reset! Th' only file that'll be spared is TwitchCredentials.json."
+CONFIRM_DELETE_ALL,Delete All!
+LABEL_LANGUAGE,Tongue
+LABEL_INSTALLED_MODS,Installed Mods
+BUTTON_MODS,Mods
+BUTTON_INSTRUCTIONS,The Ropes
+BUTTON_MODS_FOLDER,Mods Folder
+BUTTON_RELOAD,Reload
+BUTTON_PUBLISH,Publish
+LABEL_THREESIXTY_SUPPORT,360 Support
+
+WARNING_LANGUAGE_INSTALLED,Please restart th' game\nFor language change to take effect
+

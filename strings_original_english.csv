@@ -1,0 +1,157 @@
+LANGUAGE_NAME,English
+VERSION,Version
+LEVEL_SKIP,Level Skip
+RESET_GAME,Reset Game
+SETTINGS,Settings
+SOCIAL_MENU,Social Menu
+INSTRUCTION_MANUAL,Instruction Manual
+REPORT_A_BUG,Report a Bug:
+DESCRIBE_PROBLEM,Describe the problem and how to recreate it.
+EMAIL_ADDRESS,Email Address
+SEND,Send
+CANCEL,Cancel
+OPEN_DATA_FOLDER,Open Data/GIF Folder
+DELETE_ALL_RESET,Delete All / Reset
+FIRST_PERSON_SMOOTH,1st Person Smoothing
+FIRST_PERSON_FOV,1st Person FOV
+DIRECTOR_CONTROLS,DIRECTOR CONTROLS
+INSTRUCTIONS,Instructions
+ENABLE,Enable Director Controls
+EXPERIMENTAL_FEATURES,Experimental Features
+THANK_YOU_FOR_PLAYING,Thank you for playing
+LOG_IN,Log In
+TWITTER_MESSAGE,Twitter message:
+NO_TWITTER_ACCOUNT,No Twitter account logged in
+SHOW_TWITCH_CHAT,Show Twitch Chat
+USERNAME,Username
+CHANNEL,Channel
+TOKEN,Token
+GET,Get
+HIDE_THIS,Hide This
+,
+MINIMAP,Minimap
+WELCOME_TO_X_ISLAND,Welcome to\n{%}\nIsland
+FINAL_STAGE_BEAT,You just beat the {Final Level}!
+LEVEL_SELECT,Level Select
+ALL_ONLINE_CONTRAPTIONS,All Online Contraptions
+FRIENDS_CONTRAPTIONS,Friend's Contraptions
+LOCAL_CONTRAPTIONSYOUR_CONTRAPTIONS,Your Contraptions
+THIS_LEVEL_CONTRAPTIONS,Online Contraptions\nFor This Level
+YOUR_LEVELS,Your Levels
+LEVELS_BY_RATING,Levels By Rating
+LEVELS_BY_DATE,Levels By Date
+,
+WARN0_WELCOME,Welcome
+WARN0_TURN_ON_ONE,Welcome!\n\nTurn on at least\none {hand controller}.
+WARN0_DESK_TURN_ON_TO_PLAY,Please turn on your hand controller to play!
+,
+LET_GO_OF_TRIGGER,Let go of the {trigger}\non both hands!
+THROWING_IS_FUN,"{Throwing} is fun, but\nwe need this part!"
+,
+TUT00_TRIGGER_GRABS,The {trigger}\nbutton {grabs}
+TUT00_GRAB_THIS_STICK,Grab this {stick}\nand move it!
+TUT00_PERFECT,Perfect!
+,
+TUT01_ITS_A_SNAP,It's a {snap}!
+TUT01_ALSO_A_SNAP,This is also\na {snap}!
+TUT01_TRY_RESIZING_ME,Try {resizing} me by\n{grabbing} the {snaps}
+TUT01_GREAT,Great!
+,
+TUT02_CONNECT_TO_ME,Connect to me!
+TUT02_CONNECT_ME_TO_OTHER,Connect me to\nthe other {stick}!
+TUT02_USE_SNAPS,Use {snaps}!
+,
+TUT02_NICE,Nice!
+TUT02_THOSE_ARE_BASICS,Those are the basics!
+TUT02_LOOK_FOR_PUPPY,Look for\nthe [puppy]!
+TUT02_PUNCH_MY_NOSE,[Arf! Arf!]\nPush my nose when\nyou're ready to move on!
+,
+TUT03_ITS_A_WHEEL,It's a {wheel}!\n{Move} it up a bit.
+TUT03_HULLO,Hullo!
+TUT03_PRESS_GREEN_BUTTON,Press the {green button}\nto make things {go}!
+TUT03_AWWW,Awwww...
+TUT03_WHEEL_DIDNT_GO,The {wheel} didn't go\nvery far. Let's fix\nthat! Press {stop}
+,
+TUT03_STICK_TO_AXLE,Attach a {Stick} to\nthis {Axle Snap}!
+TUT03_THIS_TO_AXLE,Attach this to\nthe {Axle Snap}!
+TUT03_HIT_START_AGAIN,Hit {Start} again!
+TUT03_STICK_ATTACHED_ILL_SPIN,"As long as a {Stick} is\nattached, I'll {spin}!\nThere are some examples behind you."
+TUT_03_ARF,[Arf! Arf!]
+TUT03_WHEE,Whee!
+TUT03_YAY,Yay!
+TUT03_STOP_TO_EXPERIMENT,Press {Stop} to\nexperiment more!
+TUT03_NOSE_TO_MOVE_ON,Press the [Pup]'s nose\nto move on
+,
+TUT04_JELLY,I'm the [Jelly] ball!\nI want to get back [Home]!\n{Grab} me!
+TUT04_HELLO,Hello!
+TUT04_BUILD_CAR,Let's {build} a car!
+TUT04_MATCH_OUTLINE,{Move} parts to\nmatch this outline
+TUT04_NICE,Nice!
+TUT04_GO_TO_TEST,Press {go} to test!
+TUT04_ADJUST_CAR,Adjust your car\nto reach the goal.
+TUT04_YOU_DID_IT,You did it!\nNice job!
+,
+TUT05_PURR,{Purrrr}
+TUT05_TAKE_PARTS,Take {parts} from\n{Neko}'s back
+TUT05_NEKO_IS_FRIEND,{Neko} is\nyour friend!
+TUT05_THATS_IT,That's it!
+TUT05_MROW,{Mrow?}
+TUT05_DOUBLE_TAP,Quickly double-tap the {Trigger}\nto call {Neko} over
+TUT05_NYAN,{Nyan!}
+TUT05_GET_ME_HOME,Get me\n[Home] again!
+,
+TUT06_GRIP,Press the {grip button}\nto move the entire Contraption
+,
+TUT07_GRAB_THE_HELMET,Nice! Let's save your contraption.\n{Grab} the {Helmet}
+TUT07_PUT_ON_HEAD,Put the {Helmet}\non your {Head}!
+TUT07_LETS_SAVE,Let's {Save} your contraption.\nLook at the MiniMap.
+TUT07_GRAB_YOUR_MODEL,{Grab} your [Contraption Model]
+TUT07_MOVE_TO_TABLE,Move the [Model] to\nthe {Save} table.
+TUT07_DROP_IT_HERE,Drop the [Model] here\nto {Save} it!
+TUT07_SAVE_TABLE,{Save} table
+,
+TUT07_YOU_CAN_ALSO,"You can also {Load}, {Share},\nor {Switch Levels} here.\nFor now, let's just take off the {Helmet}."
+TUT07_PRESS_NOSE,Press the [Pup]'s nose\nto advance to the next level!
+,
+TUT08_REACH_BEHIND_SHOULDER,Reach behind your {shoulder}\nto pull out a {stick}.\nLike you're pulling out a sword.
+TUT08_SOMETHING_IN_EAR,There is something {sticky}\nin your {right ear}.\nTry to pull it out.
+TUT08_A_STICKY_BALL,This is called a {Sticky Ball}.\nIt will stop joints from {flopping} around.
+TUT08_TRY_TO_FIND,Try to find the other {shortcuts}!
+TUT08_UNPOWERED_WHEEL,This is an {Unpowered Wheel}.\nIt has no {engine}.
+,
+TUTDEMO_WELCOME,Welcome to the super-quick\n{Fantastic Contraption} demo!
+TUTDEMO_PRESS_TO_START_TIME,Press the green button to\n{Start} Time
+TUTDEMO_AGAIN_TO_STOP,... and again to\n{Stop} and {Reset} Time
+TUTDEMO_OBJECT_OF_THIS_PUZZLE,The object of this puzzle game\nis to get the {pink ball}\nto the {pink goal}
+TUTDEMO_USE_THE_TRIGGER,Use the {trigger}\nto grab things!
+TUTDEMO_IM_THE_GOAL,I'm the {Goal} ball!\nGet me home!
+TUTDEMO_THIS_SNAP,Connect this {snap}...
+TUTDEMO_TO_THIS_SNAP,... to this {snap}!
+TUTDEMO_ATTACH_ME,Attach me to the car!
+TUTDEMO_USE_START_STOP,Use the {Start}/{Stop} button to\nget the {pink ball} home!
+TUTDEMO_STRAIGHTEN,You might have to\nstraighten the car out...
+TUTDEMO_THIS_IS_GOAL,This is the [Goal]!
+TUTDEMO_SOMETHING_NEW,Try building\nsomething new!
+,
+SHELF_LOADING,Downloading...
+SHELF_NOT_CONNECTED,Not Connected
+SHELF_ERROR,Error!
+SHELF_UPLOADING,Uploading...
+SHELF_MY_ISLAND,My Island
+,
+CONFIRM_RESET_TITLE,RESET GAME
+CONFIRM_RESET_MESSAGE,This will delete the auto-saves for every level and reset back to the first tutorial. This will not delete contraptions saved on the save table. Great for starting a new game for your friends!
+CONFIRM_RESET_BUTTON,Reset the Game!
+CONFIRM_DELETE_TITLE,DELETE ALL & RESET
+CONFIRM_DELETE_MESSAGE,"This will delete every single file in the game's data folder. All of your autosaves, anything saved on the '[local]' save table, any stored settings files, etc... A factory reset! The only file that will be saved is TwitchCredentials.json."
+CONFIRM_DELETE_ALL,Delete All!
+LABEL_LANGUAGE,Language
+LABEL_INSTALLED_MODS,Installed Mods
+BUTTON_MODS,Mods
+BUTTON_INSTRUCTIONS,Instructions
+BUTTON_MODS_FOLDER,Mods Folder
+BUTTON_RELOAD,Reload
+BUTTON_PUBLISH,Publish
+LABEL_THREESIXTY_SUPPORT,360 Support
+
+WARNING_LANGUAGE_INSTALLED,Please restart the game\nFor language change to take effect
